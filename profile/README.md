@@ -13,7 +13,7 @@
 <br />
 <div align="center">
   <a href="https://tooldetective.de">
-    <img src="logo.png" alt="Logo" width="128" height="128">
+    <img src="https://i.imgur.com/Mpob6Hw.png" alt="Logo" width="128" height="128">
   </a>
 
   <h3 align="center">Best-README-Template</h3>
