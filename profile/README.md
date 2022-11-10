@@ -47,7 +47,7 @@ We use a combination of AI, computer vision and feedback control theory to measu
 <!-- CONTACT -->
 ## Contact
 
-Tool Detective - [@ToolDetectiveAI](https://twitter.com/ToolDetectiveAI) - contact@tooldetective.de - [tooldetective.de](https://www.tooldetective.de)
+Tool Detective - [www.tooldetective.de](https://www.tooldetective.de) - contact@tooldetective.de
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![XING][xing-shield]][xing-url]
