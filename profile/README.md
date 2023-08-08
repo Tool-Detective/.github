@@ -35,7 +35,7 @@
 <!-- [![Product Name Screen Shot][product-screenshot]](https://example.com) -->
 
 <!-- ABOUT THE PROJECT -->
-## About The Company
+## About The Project
 
 We use a combination of AI, computer vision and feedback control theory to measure the wear on cutting tools that are inside your CNC machine while they are cutting and send you the data via a cloud based platform.
 
