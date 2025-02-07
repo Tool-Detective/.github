@@ -62,11 +62,11 @@ Tool Detective - [home.tooldetective.app](https://home.tooldetective.app/company
 [linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&colorB=555
 [linkedin-url]: https://www.linkedin.com/company/tooldetective/
 [xing-shield]: https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white&colorB=555
-[xing-url]: https://linkedin.com/in/othneildrew
+[xing-url]: https://www.xing.com/pages/tool-detective
 [twitter-shield]: https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&colorB=555
-[twitter-url]: https://linkedin.com/in/othneildrew
+[twitter-url]: https://www.linkedin.com/company/tooldetective
 [medium-shield]: https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&colorB=555
-[medium-url]: https://linkedin.com/in/othneildrew
+[medium-url]: https://tooldetective.medium.com
 [facebook-shield]: https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&colorB=555
-[facebook-url]: https://linkedin.com/in/othneildrew
+[facebook-url]: https://www.facebook.com/tooldetectiveai
 [product-screenshot]: images/screenshot.png
