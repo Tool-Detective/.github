@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://tooldetective.de">
+  <a href="https://home.tooldetective.app/company/about">
     <img src="https://i.imgur.com/Mpob6Hw.png" alt="Logo" width="128" height="128">
   </a>
 
@@ -12,7 +12,7 @@
   <p align="center">
     Take control of your tools!
     <br />
-    <a href="https://tooldetective.de"><strong>Visit our website »</strong></a>
+    <a href="https://home.tooldetective.app/company/about"><strong>Visit our website »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Tool-Detective/.github/issues">View Demo</a>
@@ -47,7 +47,7 @@ We use a combination of AI, computer vision and feedback control theory to measu
 <!-- CONTACT -->
 ## Contact
 
-Tool Detective - [www.tooldetective.de](https://www.tooldetective.de) - contact@tooldetective.de
+Tool Detective - [home.tooldetective.app](https://home.tooldetective.app/company/about) - contact@tooldetective.app
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 [![XING][xing-shield]][xing-url]
